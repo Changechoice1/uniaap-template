@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/clean/clean",
+    "pages/user/user"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "custom": true,
+    "list": [
+      {
+        "pagePath": "pages/home/home"
+      },
+      {
+        "pagePath": "pages/clean/clean"
+      },
+      {
+        "pagePath": "pages/user/user"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {
+    "nav-bar": "/components/zhouWei-navBar/zhouWei-navBar"
+  }
+}

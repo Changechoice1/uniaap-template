@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "清盗版",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tabbar": "/components/tabbar"
+  }
+}

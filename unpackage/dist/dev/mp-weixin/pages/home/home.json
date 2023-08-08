@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "清道夫",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "tabbar": "/components/tabbar"
+  }
+}

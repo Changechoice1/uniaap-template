@@ -1,0 +1,1 @@
+<view><view>user</view><tabbar vue-id="380011e0-1" currentTab="user" bind:__l="__l"></tabbar></view>
